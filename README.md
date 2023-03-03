@@ -1,4 +1,5 @@
 <div align="center">
+  <h2>OWNER AI2D</h2>
   <a href="https://github.com/arugaz"><img width="90%" src="https://raw.githubusercontent.com/arugaz/ArugaZ/d813ebf4caf9f2855451b81fa6f539254210e64d/assets/ai2d.svg" /></a>
 </div>
 <div align="center">
